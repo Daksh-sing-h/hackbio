@@ -91,10 +91,10 @@ for d in ['data', 'data/genomes', 'data/amr_results', 'models', 'results']:
     os.makedirs(d, exist_ok=True)
 print(' Project directories ready.')
 
-import pandas as pd
-df = pd.read_csv("data/patric_amr_genes.tsv", sep="\t")
-print(df.shape)
-print(df.columns)
+# import pandas as pd
+# df = pd.read_csv("data/patric_amr_genes.tsv", sep="\t")
+# print(df.shape)
+# print(df.columns)
 
 """---
 ## STEP 2 — Data Generation (3-Class R / S / I)
