@@ -1,0 +1,6 @@
+stage,median_ms
+Feature extraction (simulation),8.300412446260452e-05
+Feature vector construction,0.0015419936971738935
+Model inference (3 antibiotics),114.55691700030002
+"AMRFinder+ (estimated, real)",90000.0
+TOTAL per genome,90114.55854199812
